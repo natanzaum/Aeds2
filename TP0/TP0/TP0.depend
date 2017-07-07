@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1460808457 source:c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"corcruzada.h"
+
+1460773721 c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0\corcruzada.h
+
+1460807485 source:c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0\corcruzada.c
+	<stdio.h>
+	<stdlib.h>
+	"corcruzada.h"
+
+1460674199 source:c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0 - mod que funfa\corcruzada.c
+	<stdio.h>
+	<stdlib.h>
+	"corcruzada.h"
+
+1460671311 c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0 - mod que funfa\corcruzada.h
+
+1460674138 source:c:\users\natanzaum\desktop\aeds2\pgm tp0\tp0 - mod que funfa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"corcruzada.h"
+
