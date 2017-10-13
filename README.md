@@ -9,5 +9,5 @@ encontrado até a espada.
 
 => Use por sua conta e risco!
 
-Se algum desses códigos foi útil para você, então você me deve algumas cervejas no Bar do Cabral (Sim, cervejas no plural) hehe
+Se algum desses códigos foi útil para você, então você me deve algumas cervejas no Bar do Cabral. Hehe
 (Sério mesmo, me paga umas cervejas! Meu email ta no profile do GitHub)
