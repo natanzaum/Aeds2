@@ -9,4 +9,3 @@ encontrado até a espada.
 
 => Use por sua conta e risco!
 
-Se algum desses códigos foi útil para você, então você me deve algumas cervejas lá no Cabral (Sério mesmo, me paga uma cerveja! Meu email ta no profile do GitHub).
